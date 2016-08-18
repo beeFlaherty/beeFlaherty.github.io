@@ -1,6 +1,6 @@
 $(document).ready(function() {
  	
-	var terms = ["HTML5", "javascript", "Aston Villa", "Wordpress", "Tea", "PHP", "Knitting", "Sass", "Responsive Design", "jQuery", "CSS3", "Shopify", "Jekyll", "Nintendo"];
+	var terms = ["HTML5", "Javascript", "Aston Villa", "Less", "Tea", "Knitting", "Sass", "Yoga", "jQuery", "CSS3", "Wordpress", "Jekyll", "Nintendo"];
 
     function rotateTerm() {
       var ct = $("#rotate").data("term") || 0;
