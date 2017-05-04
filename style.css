@@ -132,6 +132,13 @@ Social Links
   color: #287bbc;
 }
 
+.menu li a[href*="codepen.io"]:before {
+  content: "\f1cb";
+}
+.menu li a[href*="codepen.io"]:hover:before {
+  color: #287bbc;
+}
+
 .menu li a[href*="mailto"]:before {
   content: "\f003";
 }
